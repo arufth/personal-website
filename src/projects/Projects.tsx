@@ -1,10 +1,17 @@
-import { NavBar } from '../components'
+import { ProjectList } from '.'
+import { Header } from '../components'
+
+import './Projects.css'
 
 export const Projects: React.FC = () => {
   return (
     <>
-      <NavBar />
-      Projects
+      <main className='main-projects'>
+        <Header title='These are my current side projects :)' subtitle='from web developer apps to a ray tracer' />
+
+        <ProjectList />
+
+      </main>
     </>
   )
 }
