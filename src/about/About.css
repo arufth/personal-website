@@ -1,0 +1,170 @@
+.main-about {
+  padding: 2rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 2rem;
+
+  .mainText-about {
+    margin: 2rem 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+
+    .myname {
+      color: var(--green);
+      font-weight: 500;
+      letter-spacing: .05rem;
+    }
+
+    .cs {
+      color: var(--orange0);
+      font-weight: 500;
+      letter-spacing: .05rem;
+    }
+  }
+
+  .rust {
+    color: var(--orange);
+    font-weight: 500;
+  }
+
+  .languages {
+    display: flex;
+    gap: 2rem;
+    font-weight: 500;
+    letter-spacing: .05rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: .5rem 0;
+    transition: all;
+
+    p {
+      transition: all 250ms ease;
+    }
+
+    p:hover {
+      transform: scale(1.2);
+    }
+
+    .ts {
+      color: var(--blue);
+    }
+
+    .java {
+      color: var(--red0);
+    }
+
+    .python {
+      color: var(--blue0);
+    }
+
+    .js {
+      color: var(--yellow);
+    }
+
+    .hkll {
+      color: var(--purple);
+    }
+
+    .c {
+      color: var(--blue0);
+    }
+
+    .go {
+      color: var(--blue);
+    }
+
+    .zig {
+      color: var(--yellow0);
+    }
+  }
+
+  .logical-problems {
+    label {
+      font-weight: 500;
+    }
+  }
+
+  .leetcode {
+    color: var(--yellow);
+  }
+
+  .hackerrank {
+    color: var(--green0);
+  }
+
+  .codesignal {
+    color: var(--blue0);
+  }
+
+  .codeforces {
+    color: var(--red);
+  }
+
+  .leetcode-profile{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+
+    img {
+      width: 100%;
+    }
+
+    small {
+      color: var(--fg3);
+      font-size: .6rem;
+    }
+  }
+
+  .gardering-text {
+    label {
+      font-weight: 500;
+    }
+  }
+
+  .gardering-label {
+    color: var(--green);
+  }
+
+  .cucumber {
+    color: var(--green0);
+  }
+
+  .waterm{
+    color: var(--orange);
+  }
+
+  .tomato {
+    color: var(--red);
+  }
+
+  .corn {
+    color: var(--yellow);
+  }
+
+  .carrot {
+    color: var(--orange0);
+  }
+
+  .gardering {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+
+    img {
+      width: 30%;
+    }
+
+    small {
+      color: var(--fg3);
+      font-size: .6rem;
+    }
+  }
+}
