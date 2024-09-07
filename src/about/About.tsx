@@ -1,3 +1,5 @@
+// TODO: create sectios for each 'section' lol
+
 import { Divider, Header } from '../components'
 import { Link } from 'react-router-dom'
 
@@ -13,6 +15,18 @@ export const About: React.FC = () => {
         />
 
         <section className='mainText-about'>
+          <div className='social-medias'>
+            <p>
+              These are my social medias:
+            </p>
+            <div className='social-media-links'>
+              <a href='#'>Instagram</a>
+              <a href='#'>X (Twitter)</a>
+            </div>
+          </div>
+
+          <Divider />
+
           <p>
             Well, My (real) name is <label className='myname'>Carlos</label>, but you can call me either <label className='myname'>Aru</label> or <label className='myname'>Dummy</label> ( now 'carlitosdummy' makes sense, doesn't it? )
           </p>

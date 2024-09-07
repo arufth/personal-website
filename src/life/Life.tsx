@@ -1,3 +1,4 @@
+// TODO: Optimaze photos
 import { Header } from '../components'
 
 import './Life.css'
@@ -8,7 +9,7 @@ export const Life: React.FC = () => {
     <>
       <main className='main-life'>
         <Header title="POV: you're Aru" subtitle='I used to be a ' />
-        <ul>
+        <ul className='photos'>
           {
             photos.map(photo => (
               <li key={photo.id}>
