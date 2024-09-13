@@ -77,7 +77,7 @@ export const About: React.FC = () => {
           </p>
           <p>If you want to check out my profile, here's my LeetCode:</p>
           <div className='leetcode-profile'>
-            <img src='/public/leetcode.png' alt='A screenshot of my LeetCode profile' />
+            <img src='/leetcode.png' alt='A screenshot of my LeetCode profile' />
             <a
               rel='noreferrer'
               target='_blank'
@@ -97,7 +97,7 @@ export const About: React.FC = () => {
           <p>Actually ☝🏽🤓, that's the reason I developed a garden organizer, which you can view in the <Link to='/projects'>Projects</Link> tab.</p>
           <p className='gardering-text'>At the moment, I'm growing <label className='waterm'>watermelon</label>, <label className='tomato'>tomato</label>, <label className='cucumber'>cucumber</label>, <label className='corn'>corn</label>, <label className='carrot'>carrot</label>, and a couple more veggies. In the <Link to='/life'>Life</Link> tab, you'll find some photos I've taken so far.</p>
           <div className='gardering'>
-            <img src='/public/radish.jpg' alt='A photo of radishes' />
+            <img src='/radish.jpg' alt='A photo of radishes' />
             <small>This is the first one I took c:</small>
           </div>
         </section>
