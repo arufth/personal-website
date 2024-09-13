@@ -2,92 +2,134 @@
   {
     "id": 1,
     "title": "I'll never use a normal keyboard again",
-    "path": "/public/9.jpeg",
-    "category": ["life", "tech"],
+    "path": "/9.jpeg",
+    "category": [
+      "life",
+      "tech"
+    ],
     "date": "2024-07-25"
   },
   {
     "id": 2,
     "title": "My (second) home",
-    "path": "/public/11.jpeg",
-    "category": ["life", "nature"],
+    "path": "/11.jpeg",
+    "category": [
+      "life",
+      "nature"
+    ],
     "date": "2024-08-11"
   },
   {
     "id": 3,
     "title": "The best game ever",
-    "path": "/public/6.jpg",
-    "category": ["life", "tech", "games"],
+    "path": "/6.jpg",
+    "category": [
+      "life",
+      "tech",
+      "games"
+    ],
     "date": "2024-06-22"
   },
   {
     "id": 4,
     "title": "Life would be awful without carrots",
-    "path": "/public/14.jpeg",
-    "category": ["life", "gardening"],
+    "path": "/14.jpeg",
+    "category": [
+      "life",
+      "gardening"
+    ],
     "date": "2024-08-16"
   },
   {
     "id": 5,
     "title": "Ngl, I love VIM (motions)",
-    "path": "/public/2.jpeg",
-    "category": ["life", "tech", "study"],
+    "path": "/2.jpeg",
+    "category": [
+      "life",
+      "tech",
+      "study"
+    ],
     "date": "2024-06-13"
   },
   {
     "id": 6,
     "title": "My first day in my garden",
-    "path": "/public/3.jpg",
-    "category": ["life", "gardening"],
+    "path": "/3.jpg",
+    "category": [
+      "life",
+      "gardening"
+    ],
     "date": "2024-06-13"
   },
   {
     "id": 7,
     "title": "I'm dummy, btw",
-    "path": "/public/4.jpg",
-    "category": ["life", "tech", "study"],
+    "path": "/4.jpg",
+    "category": [
+      "life",
+      "tech",
+      "study"
+    ],
     "date": "2024-06-14"
   },
   {
     "id": 8,
     "title": "It broke down again",
-    "path": "/public/8.jpeg",
-    "category": ["life", "tech"],
+    "path": "/8.jpeg",
+    "category": [
+      "life",
+      "tech"
+    ],
     "date": "2024-07-21"
   },
   {
     "id": 9,
     "title": "",
-    "path": "/public/5.jpg",
-    "category": ["life", "gardening"],
+    "path": "/5.jpg",
+    "category": [
+      "life",
+      "gardening"
+    ],
     "date": "2024-06-15"
   },
   {
     "id": 10,
     "title": "",
-    "path": "/public/7.jpeg",
-    "category": ["life", "gardening"],
+    "path": "/7.jpeg",
+    "category": [
+      "life",
+      "gardening"
+    ],
     "date": "2024-06-29"
   },
   {
     "id": 11,
     "title": "",
-    "path": "/public/10.jpg",
-    "category": ["life", "gardening"],
+    "path": "/10.jpg",
+    "category": [
+      "life",
+      "gardening"
+    ],
     "date": "2024-07-26"
   },
   {
     "id": 12,
     "title": "",
-    "path": "/public/13.jpeg",
-    "category": ["life", "gardening"],
+    "path": "/13.jpeg",
+    "category": [
+      "life",
+      "gardening"
+    ],
     "date": "2024-08-16"
   },
   {
     "id": 13,
     "title": "",
-    "path": "/public/15.jpeg",
-    "category": ["life", "gardening"],
+    "path": "/15.jpeg",
+    "category": [
+      "life",
+      "gardening"
+    ],
     "date": "2024-08-16"
   }
 ]

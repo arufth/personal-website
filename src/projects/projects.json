@@ -12,7 +12,7 @@
       "status": "active",
       "github": "https://github.com/carlitosdummy/ray-tracer",
       "demo": "",
-      "image": "/public/ray-tracer.jpeg"
+      "image": "/ray-tracer.jpeg"
     },
     {
       "id": 2,
@@ -28,7 +28,7 @@
       "status": "active",
       "github": "https://github.com/carlitosdummy/garden-organizer",
       "demo": "https://garden-organizer.netlify.app/garden/element-view",
-      "image": "/public/garden-organizer.png"
+      "image": "/garden-organizer.png"
     },
     {
       "id": 3,
@@ -42,7 +42,7 @@
       "status": "active",
       "github": "https://github.com/carlitosdummy/task_manager",
       "demo": "https://candid-mandazi-85173b.netlify.app/",
-      "image": "/public/task-manager.png"
+      "image": "/task-manager.png"
     },
     {
       "id": 4,
@@ -57,7 +57,7 @@
       ],
       "github": "https://github.com/carlitosdummy/url-shortener",
       "demo": "https://dummy-url-shortener.netlify.app/",
-      "image": "/public/url-shortener.png"
+      "image": "/url-shortener.png"
     },
     {
       "id": 5,
