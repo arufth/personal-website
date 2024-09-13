@@ -8,7 +8,7 @@ export const Life: React.FC = () => {
   return (
     <>
       <main className='main-life'>
-        <Header title="POV: you're Aru" subtitle='I used to be a photographer btw' />
+        <Header title="POV: you're Aru" subtitle='these are a bunch of photos from my day-to-day' />
         <ul className='photos'>
           {
             photos.map(photo => (

@@ -11,7 +11,7 @@ export const About: React.FC = () => {
       <main className='main-about'>
         <Header
           title='But, Who Am I?'
-          subtitle='What Do I Do in My Day-to-Day?'
+          subtitle='what do I do in my day-to-day? why are there a crab above?'
         />
 
         <section className='mainText-about'>
