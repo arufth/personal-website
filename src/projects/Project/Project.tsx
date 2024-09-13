@@ -23,8 +23,19 @@ export const Project: React.FC<Props> = ({ project }) => {
             />}
         </div>
         <div className='project-links'>
-          <a href={project.github}>GitHub</a>
-          {project.demo !== '' && <a href={project.demo}>Web Site</a>}
+          <a
+            rel='noreferrer'
+            target='_blank'
+            href={project.github}
+          >GitHub
+          </a>
+          {project.demo !== '' &&
+            <a
+              target='_blank'
+              href={project.demo}
+              rel='noreferrer'
+            >Web Site
+            </a>}
         </div>
       </article>
     </>

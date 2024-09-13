@@ -10,31 +10,53 @@ export const About: React.FC = () => {
     <>
       <main className='main-about'>
         <Header
-          title='But, How am I?'
-          subtitle='why do I do in my da-to-day?'
+          title='But, Who Am I?'
+          subtitle='What Do I Do in My Day-to-Day?'
         />
 
         <section className='mainText-about'>
           <div className='social-medias'>
             <p>
-              These are my social medias:
+              These are my 'social media':
             </p>
             <div className='social-media-links'>
-              <a href='#'>Instagram</a>
-              <a href='#'>X (Twitter)</a>
+              <a
+                rel='noreferrer'
+                target='_blank'
+                href='https://www.instagram.com/carlitosdummy'
+              >Instagram
+              </a>
+              <a
+                rel='noreferrer'
+                target='_blank'
+                href='https://www.x.com/carlitosdummy'
+              >X (Twitter)
+              </a>
+              <a
+                rel='noreferrer'
+                target='_blank'
+                href='https://www.github.com/carlitosdummy'
+              >GitHub
+              </a>
+              <a
+                rel='noreferrer'
+                target='_blank'
+                href='https://leetcode.com/u/carlitosdummy/'
+              >LeetCode
+              </a>
             </div>
           </div>
 
           <Divider />
 
           <p>
-            Well, My (real) name is <label className='myname'>Carlos</label>, but you can call me either <label className='myname'>Aru</label> or <label className='myname'>Dummy</label> ( now 'carlitosdummy' makes sense, doesn't it? )
+            Well, my (real) name is <label className='myname'>Carlos</label>, but you can call me either <label className='myname'>Aru</label> or <label className='myname'>Dummy</label> (now 'carlitosdummy' makes sense, doesn't it?)
           </p>
           <p>
-            I'm a 20-Software-Enginnier Student, but also I'm really into everthing that surround <label className='cs'>Computer Science</label>; I fell in love with how things work under the hood.
+            I'm a 20-year-old Software Engineering student, but I'm also really into everything related to <label className='cs'>Computer Science</label>; I fell in love with how things work under the hood.
           </p>
           <p>
-            My favorite language is <label className='rust'>Rust</label>, and how you can suppose, that's the reason of that pretty tiny eye-catching crab moving side by side at the top of the page. Althoug, I usually program in:
+            My favorite language is <label className='rust'>Rust</label>, and as you can imagine, that's the reason for that cute, tiny, eye-catching crab moving side to side at the top of the page. Although, I usually program in:
           </p>
           <div className='languages'>
             <p className='ts'>TypeScript</p>
@@ -51,30 +73,32 @@ export const About: React.FC = () => {
           </div>
           <Divider />
           <p className='logical-problems'>
-            One of the most things that I enjoy is solving logical problems. I'me sure you know platforms like <label className='leetcode'>LeetCode</label> (my favorite btw ☝🏽🤓), <label className='hackerrank'>HackerRank</label>, <label className='codesignal'>Code Signal</label>, <label className='codeforces'>CodeForces</label>, and so on. I constantly spend around 2 hours per day solving that kind of problems.
+            One of the things I enjoy the most is solving logic problems. I'm sure you're familiar with platforms like <label className='leetcode'>LeetCode</label> (my favorite btw ☝🏽🤓), <label className='hackerrank'>HackerRank</label>, <label className='codesignal'>CodeSignal</label>, <label className='codeforces'>CodeForces</label>, and so on. I spend around 2 hours a day solving these kinds of problems.
           </p>
-          <p>If you want to stalk me, this is my Leetcode profile:</p>
+          <p>If you want to check out my profile, here's my LeetCode:</p>
           <div className='leetcode-profile'>
-            <img src='/public/leetcode.png' alt='a screenshot of my LeetCode profile' />
+            <img src='/public/leetcode.png' alt='A screenshot of my LeetCode profile' />
             <a
+              rel='noreferrer'
+              target='_blank'
               href='https://leetcode.com/u/carlitosdummy/'
             >LeetCode
             </a>
-            <small>I'm a newbiew, don't judge me :p</small>
+            <small>I'm a newbie, don't judge me :p</small>
           </div>
 
           <Divider />
           <p>
-            Yurp, I've talked about my current career, my favorite languages, my obsession with Leetcode, but What do I do when I'm not programming? Do I play LoL like an avarege CS or SWE?
+            Yup, I've talked about my current studies, my favorite languages, and my obsession with LeetCode, but what do I do when I'm not programming? Do I play LoL like an average CS or SWE?
           </p>
           <Divider />
 
-          <p className='gardering-text'>I'm really into <label className='gardering-label'>gardering</label>. Since a couple of months I grow several veggies in my garden. My dad grew up in a rural zone; so he know a lot about this wondeful world.</p>
-          <p>Actually ☝🏽🤓, that's the reason why I developed a garden organaizer which you can view it in the <Link to='/projects'>Projects</Link> tab.</p>
-          <p className='gardering-text'>At this moment, I'm growing <label className='waterm'>watermelon</label>, <label className='tomato'>tomato</label>, <label className='cucumber'>cucumber</label>, <label className='corn'>corn</label>, <label className='carrot'>carrot</label>, and two or three more veggies. In the <Link to='/life'>Life</Link> tab you'll find some photos that I've taken until now.</p>
+          <p className='gardering-text'>I love <label className='gardering-label'>gardening</label>. For a few months now, I've been growing various veggies in my garden. My dad grew up in a rural area, so he knows a lot about this wonderful world.</p>
+          <p>Actually ☝🏽🤓, that's the reason I developed a garden organizer, which you can view in the <Link to='/projects'>Projects</Link> tab.</p>
+          <p className='gardering-text'>At the moment, I'm growing <label className='waterm'>watermelon</label>, <label className='tomato'>tomato</label>, <label className='cucumber'>cucumber</label>, <label className='corn'>corn</label>, <label className='carrot'>carrot</label>, and a couple more veggies. In the <Link to='/life'>Life</Link> tab, you'll find some photos I've taken so far.</p>
           <div className='gardering'>
-            <img src='/public/radish.jpg' alt='a photo of radish' />
-            <small>This is the first one that I've taken :)</small>
+            <img src='/public/radish.jpg' alt='A photo of radishes' />
+            <small>This is the first one I took c:</small>
           </div>
         </section>
 

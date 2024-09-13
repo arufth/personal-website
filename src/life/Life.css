@@ -10,7 +10,7 @@
   .photos {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 1rem;
+    gap: 1.2rem;
     margin-top: 1rem;
 
     li {
@@ -18,11 +18,19 @@
 
       h3 {
         margin: 0;
-        text-align: center;
+        text-align: start;
       }
 
       img {
         width: 100%;
+      }
+
+      small {
+        color: var(--bg1);
+        font-size: .7rem;
+        background: var(--fg0);
+        padding: .2rem .5rem;
+        border-radius: .2rem;
       }
     }
   }

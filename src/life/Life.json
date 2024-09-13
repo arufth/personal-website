@@ -1,72 +1,93 @@
 [
   {
     "id": 1,
-    "title": "Photo 1",
-    "path": "/public/1.jpeg"
+    "title": "I'll never use a normal keyboard again",
+    "path": "/public/9.jpeg",
+    "category": ["life", "tech"],
+    "date": "2024-07-25"
   },
   {
     "id": 2,
-    "title": "Photo 2",
-    "path": "/public/2.jpeg"
+    "title": "My (second) home",
+    "path": "/public/11.jpeg",
+    "category": ["life", "nature"],
+    "date": "2024-08-11"
   },
   {
     "id": 3,
-    "title": "Photo 3",
-    "path": "/public/3.jpg"
+    "title": "The best game ever",
+    "path": "/public/6.jpg",
+    "category": ["life", "tech", "games"],
+    "date": "2024-06-22"
   },
   {
     "id": 4,
-    "title": "Photo 4",
-    "path": "/public/4.jpg"
+    "title": "Life would be awful without carrots",
+    "path": "/public/14.jpeg",
+    "category": ["life", "gardening"],
+    "date": "2024-08-16"
   },
   {
     "id": 5,
-    "title": "Photo 5",
-    "path": "/public/5.jpg"
+    "title": "Ngl, I love VIM (motions)",
+    "path": "/public/2.jpeg",
+    "category": ["life", "tech", "study"],
+    "date": "2024-06-13"
   },
   {
     "id": 6,
-    "title": "Photo 6",
-    "path": "/public/6.jpg"
+    "title": "My first day in my garden",
+    "path": "/public/3.jpg",
+    "category": ["life", "gardening"],
+    "date": "2024-06-13"
   },
   {
     "id": 7,
-    "title": "Photo 7",
-    "path": "/public/7.jpeg"
-  },
-  {
-    "id": 10,
-    "title": "Photo 10",
-    "path": "/public/10.jpg"
+    "title": "I'm dummy, btw",
+    "path": "/public/4.jpg",
+    "category": ["life", "tech", "study"],
+    "date": "2024-06-14"
   },
   {
     "id": 8,
-    "title": "Photo 8",
-    "path": "/public/8.jpeg"
-  },
-  {
-    "id": 13,
-    "title": "Photo 13",
-    "path": "/public/13.jpeg"
-  },
-  {
-    "id": 11,
-    "title": "Photo 11",
-    "path": "/public/11.jpeg"
+    "title": "It broke down again",
+    "path": "/public/8.jpeg",
+    "category": ["life", "tech"],
+    "date": "2024-07-21"
   },
   {
     "id": 9,
-    "title": "Photo 9",
-    "path": "/public/9.jpeg"
+    "title": "",
+    "path": "/public/5.jpg",
+    "category": ["life", "gardening"],
+    "date": "2024-06-15"
   },
   {
-    "id": 14,
-    "title": "Photo 14",
-    "path": "/public/14.jpeg"
+    "id": 10,
+    "title": "",
+    "path": "/public/7.jpeg",
+    "category": ["life", "gardening"],
+    "date": "2024-06-29"
   },
   {
-    "id": 15,
-    "title": "Photo 15",
-    "path": "/public/15.jpeg"
+    "id": 11,
+    "title": "",
+    "path": "/public/10.jpg",
+    "category": ["life", "gardening"],
+    "date": "2024-07-26"
+  },
+  {
+    "id": 12,
+    "title": "",
+    "path": "/public/13.jpeg",
+    "category": ["life", "gardening"],
+    "date": "2024-08-16"
+  },
+  {
+    "id": 13,
+    "title": "",
+    "path": "/public/15.jpeg",
+    "category": ["life", "gardening"],
+    "date": "2024-08-16"
   }
 ]
