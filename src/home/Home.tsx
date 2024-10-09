@@ -21,7 +21,7 @@ export const Home: React.FC = () => {
           <p>If you're just interested in work-related matters, here are some useful and quick links:</p>
           <div>
             <a
-              href='https://github.com/carlitosdummy' rel='noreferrer'
+              href='https://github.com/arufth' rel='noreferrer'
               target='_blank'
             >GitHub
             </a>

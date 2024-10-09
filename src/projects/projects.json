@@ -10,7 +10,7 @@
         "ray tracing"
       ],
       "status": "active",
-      "github": "https://github.com/carlitosdummy/ray-tracer",
+      "github": "https://github.com/arufth/ray-tracer",
       "demo": "",
       "image": "/ray-tracer.jpeg"
     },
@@ -26,7 +26,7 @@
         "redux"
       ],
       "status": "active",
-      "github": "https://github.com/carlitosdummy/garden-organizer",
+      "github": "https://github.com/arufth/garden-organizer",
       "demo": "https://garden-organizer.netlify.app/garden/element-view",
       "image": "/garden-organizer.png"
     },
@@ -40,7 +40,7 @@
         "react"
       ],
       "status": "active",
-      "github": "https://github.com/carlitosdummy/task_manager",
+      "github": "https://github.com/arufth/task_manager",
       "demo": "https://minimalist-task-manager.netlify.app/",
       "image": "/task-manager.png"
     },
@@ -55,7 +55,7 @@
         "javascript",
         "API"
       ],
-      "github": "https://github.com/carlitosdummy/url-shortener",
+      "github": "https://github.com/arufth/url-shortener",
       "demo": "https://dummy-url-shortener.netlify.app/",
       "image": "/url-shortener.png"
     },
@@ -70,7 +70,7 @@
         "linux"
       ],
       "status": "active",
-      "github": "https://github.com/carlitosdummy/dummy-commands",
+      "github": "https://github.com/arufth/dummy-commands",
       "demo": "",
       "image": ""
     }

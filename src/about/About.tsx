@@ -23,25 +23,25 @@ export const About: React.FC = () => {
               <a
                 rel='noreferrer'
                 target='_blank'
-                href='https://www.instagram.com/carlitosdummy'
+                href='https://www.instagram.com/arufth'
               >Instagram
               </a>
               <a
                 rel='noreferrer'
                 target='_blank'
-                href='https://www.x.com/carlitosdummy'
+                href='https://www.x.com/arufth'
               >X (Twitter)
               </a>
               <a
                 rel='noreferrer'
                 target='_blank'
-                href='https://www.github.com/carlitosdummy'
+                href='https://www.github.com/arufth'
               >GitHub
               </a>
               <a
                 rel='noreferrer'
                 target='_blank'
-                href='https://leetcode.com/u/carlitosdummy/'
+                href='https://leetcode.com/u/arufth/'
               >LeetCode
               </a>
             </div>
@@ -50,7 +50,7 @@ export const About: React.FC = () => {
           <Divider />
 
           <p>
-            Well, my (real) name is <label className='myname'>Carlos</label>, but you can call me either <label className='myname'>Aru</label> or <label className='myname'>Dummy</label> (now 'carlitosdummy' makes sense, doesn't it?)
+            Well, my (real) name is <label className='myname'>Carlos</label>, but you can call me either <label className='myname'>Aru</label> or <label className='myname'>Arufth</label>
           </p>
           <p>
             I'm a 20-year-old Software Engineering student, but I'm also really into everything related to <label className='cs'>Computer Science</label>; I fell in love with how things work under the hood.
