@@ -12,7 +12,7 @@
       "status": "active",
       "github": "https://github.com/arufth/ray-tracer",
       "demo": "",
-      "image": "/ray-tracer.jpeg"
+      "image": "/ray-tracer.webp"
     },
     {
       "id": 2,
@@ -28,7 +28,7 @@
       "status": "active",
       "github": "https://github.com/arufth/garden-organizer",
       "demo": "https://garden-organizer.netlify.app/garden/element-view",
-      "image": "/garden-organizer.png"
+      "image": "/garden-organizer.webp"
     },
     {
       "id": 3,
@@ -42,7 +42,7 @@
       "status": "active",
       "github": "https://github.com/arufth/task_manager",
       "demo": "https://minimalist-task-manager.netlify.app/",
-      "image": "/task-manager.png"
+      "image": "/task-manager.webp"
     },
     {
       "id": 4,
@@ -57,7 +57,7 @@
       ],
       "github": "https://github.com/arufth/url-shortener",
       "demo": "https://dummy-url-shortener.netlify.app/",
-      "image": "/url-shortener.png"
+      "image": "/url-shortener.webp"
     },
     {
       "id": 5,

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "I'll never use a normal keyboard again",
-    "path": "/9.jpeg",
+    "path": "/9.webp",
     "category": [
       "life",
       "tech"
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "title": "My (second) home",
-    "path": "/11.jpeg",
+    "path": "/11.webp",
     "category": [
       "life",
       "nature"
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "title": "The best game ever",
-    "path": "/6.jpg",
+    "path": "/6.webp",
     "category": [
       "life",
       "tech",
@@ -33,7 +33,7 @@
   {
     "id": 4,
     "title": "Life would be awful without carrots",
-    "path": "/14.jpeg",
+    "path": "/14.webp",
     "category": [
       "life",
       "gardening"
@@ -43,7 +43,7 @@
   {
     "id": 5,
     "title": "Ngl, I love VIM (motions)",
-    "path": "/2.jpeg",
+    "path": "/2.webp",
     "category": [
       "life",
       "tech",
@@ -54,7 +54,7 @@
   {
     "id": 6,
     "title": "My first day in my garden",
-    "path": "/3.jpg",
+    "path": "/3.webp",
     "category": [
       "life",
       "gardening"
@@ -64,7 +64,7 @@
   {
     "id": 7,
     "title": "I'm dummy, btw",
-    "path": "/4.jpg",
+    "path": "/14.webp",
     "category": [
       "life",
       "tech",
@@ -75,7 +75,7 @@
   {
     "id": 8,
     "title": "It broke down again",
-    "path": "/8.jpeg",
+    "path": "/8.webp",
     "category": [
       "life",
       "tech"
@@ -85,7 +85,7 @@
   {
     "id": 9,
     "title": "",
-    "path": "/5.jpg",
+    "path": "/5.webp",
     "category": [
       "life",
       "gardening"
@@ -95,7 +95,7 @@
   {
     "id": 10,
     "title": "",
-    "path": "/7.jpeg",
+    "path": "/7.webp",
     "category": [
       "life",
       "gardening"
@@ -105,7 +105,7 @@
   {
     "id": 11,
     "title": "",
-    "path": "/10.jpg",
+    "path": "/10.webp",
     "category": [
       "life",
       "gardening"
@@ -115,7 +115,7 @@
   {
     "id": 12,
     "title": "",
-    "path": "/13.jpeg",
+    "path": "/13.webp",
     "category": [
       "life",
       "gardening"
@@ -125,7 +125,7 @@
   {
     "id": 13,
     "title": "",
-    "path": "/15.jpeg",
+    "path": "/15.webp",
     "category": [
       "life",
       "gardening"
