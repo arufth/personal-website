@@ -1,3 +1,4 @@
+import { EMAIL, SOCIAL_MEDIA } from '../../constants'
 import { Divider, Header } from '../components'
 
 import './Home.css'
@@ -21,7 +22,7 @@ export const Home: React.FC = () => {
           <p>If you're just interested in work-related matters, here are some useful and quick links:</p>
           <div>
             <a
-              href='https://github.com/arufth' rel='noreferrer'
+              href={SOCIAL_MEDIA.GITHUB} rel='noreferrer'
               target='_blank'
             >GitHub
             </a>
@@ -30,14 +31,14 @@ export const Home: React.FC = () => {
             >CV
             </a>
             <a
-              href='https://www.linkedin.com/in/carlitosdummy/' rel='noreferrer'
+              href={SOCIAL_MEDIA.LINKEDIN} rel='noreferrer'
               target='_blank'
             >Linkedin
             </a>
           </div>
           <p>This is my email:</p>
           <div>
-            <a href='mailto:carlos256800@gmail.com'>carlos256800@gmail.com</a>
+            <a href={'mailto:' + EMAIL}>{EMAIL}</a>
           </div>
         </section>
 

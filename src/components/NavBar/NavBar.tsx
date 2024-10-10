@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom'
-import { LINKS } from '../../../constants'
+import { TABS } from '../../../constants'
 
 import './NavBar.css'
 export const NavBar: React.FC = () => {
@@ -8,13 +8,13 @@ export const NavBar: React.FC = () => {
       <nav className='navbar'>
         <ul className='navbar-ul'>
           {
-            LINKS.map(link => (
-              <li key={link}>
+            TABS.map(tab => (
+              <li key={tab}>
                 <NavLink
-                  to={'/'.concat(link.toLowerCase())}
+                  to={'/'.concat(tab.toLowerCase())}
                   className={({ isActive }) => isActive ? 'active' : ''}
                 >
-                  {link}
+                  {tab}
                 </NavLink>
               </li>
             ))

@@ -64,35 +64,39 @@
       transform: scale(1.2);
     }
 
-    .ts {
+    .Typescript {
       color: var(--blue);
     }
 
-    .java {
+    .Java {
       color: var(--red0);
     }
 
-    .python {
+    .Python {
       color: var(--blue0);
     }
 
-    .js {
+    .Javascript {
       color: var(--yellow);
     }
 
-    .hkll {
+    .Haskell {
       color: var(--purple);
     }
 
-    .c {
+    .SML {
+      color: var(--red);
+    }
+
+    .C {
       color: var(--blue0);
     }
 
-    .go {
+    .Go {
       color: var(--blue);
     }
 
-    .zig {
+    .Zig {
       color: var(--yellow0);
     }
   }
