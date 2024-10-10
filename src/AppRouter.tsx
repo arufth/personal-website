@@ -1,36 +1,40 @@
-import { createBrowserRouter, Navigate, RouterProvider } from 'react-router-dom'
-import { Home } from './home/Home'
-import { About } from './about/About'
-import { Projects } from './projects/Projects'
-import { Life } from './life/Life'
+import {
+  createBrowserRouter,
+  Navigate,
+  RouterProvider,
+} from "react-router-dom";
+import { Home } from "./home/Home";
+import { About } from "./about/About";
+import { Projects } from "./projects/Projects";
+import { Life } from "./life/Life";
 
 const router = createBrowserRouter([
   {
-    path: '/',
-    element: <Navigate to='home' />
+    path: "/",
+    element: <Navigate to="home" />,
   },
   {
-    path: 'home',
-    element: <Home />
+    path: "home",
+    element: <Home />,
   },
   {
-    path: 'about',
-    element: <About />
+    path: "about",
+    element: <About />,
   },
   {
-    path: 'projects',
-    element: <Projects />
+    path: "projects",
+    element: <Projects />,
   },
   {
-    path: 'life',
-    element: <Life />
+    path: "life",
+    element: <Life />,
   },
   {
-    path: '*',
-    element: <h1>404</h1>
-  }
-])
+    path: "*",
+    element: <h1>404</h1>,
+  },
+]);
 
 export const AppRouter: React.FC = () => {
-  return <RouterProvider router={router} />
-}
+  return <RouterProvider router={router} />;
+};

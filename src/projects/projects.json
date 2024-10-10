@@ -5,10 +5,7 @@
       "name": "Ray Tracer",
       "subtitle": "A project written in Rust",
       "description": "This project is an implementation of the 'Ray Tracing in a Weekend' series by Peter Shirley, adapted to the Rust programming language.",
-      "keywords": [
-        "rust",
-        "ray tracing"
-      ],
+      "keywords": ["rust", "ray tracing"],
       "status": "active",
       "github": "https://github.com/arufth/ray-tracer",
       "demo": "",
@@ -19,12 +16,7 @@
       "name": "Garden Organizer",
       "subtitle": "A tool for gardeners by gardeners",
       "description": "This application is designed to help users organize their garden. It allows users to add plants, create a garden layout, and track the growth of their plants.",
-      "keywords": [
-        "typescript",
-        "react",
-        "router",
-        "redux"
-      ],
+      "keywords": ["typescript", "react", "router", "redux"],
       "status": "active",
       "github": "https://github.com/arufth/garden-organizer",
       "demo": "https://garden-organizer.netlify.app/garden/element-view",
@@ -35,10 +27,7 @@
       "name": "Task Manager",
       "subtitle": "A complete project built with TS",
       "description": "A web application that allows users to manage their tasks. It lets users filter tasks by status and importance, in addition to the usual CRUD operations. With color coding, users can easily identify the status of each task.",
-      "keywords": [
-        "typescript",
-        "react"
-      ],
+      "keywords": ["typescript", "react"],
       "status": "active",
       "github": "https://github.com/arufth/task_manager",
       "demo": "https://minimalist-task-manager.netlify.app/",
@@ -50,11 +39,7 @@
       "subtitle": "A web app using an API",
       "description": "A simple but efficient URL shortener built with React. It's designed to quickly generate shortened URLs and provide a user-friendly interface.",
       "status": "active",
-      "keywords": [
-        "react",
-        "javascript",
-        "API"
-      ],
+      "keywords": ["react", "javascript", "API"],
       "github": "https://github.com/arufth/url-shortener",
       "demo": "https://dummy-url-shortener.netlify.app/",
       "image": "/url-shortener.webp"
@@ -64,11 +49,7 @@
       "name": "Dummy Commands",
       "subtitle": "Recreating commands using Node.js",
       "description": "This project is designed to recreate the functionality of some Linux commands using Node.js.",
-      "keywords": [
-        "node.js",
-        "javascript",
-        "linux"
-      ],
+      "keywords": ["node.js", "javascript", "linux"],
       "status": "active",
       "github": "https://github.com/arufth/dummy-commands",
       "demo": "",

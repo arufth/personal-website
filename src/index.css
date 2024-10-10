@@ -37,9 +37,8 @@
   --orange: #d65d0e;
   --orange0: #af3a03;
 
-  font-family: 'Fira Code', monospace;
+  font-family: "Fira Code", monospace;
 }
-
 
 #root {
   width: 100%;
@@ -54,3 +53,4 @@ body {
   display: flex;
   background: var(--bg);
 }
+

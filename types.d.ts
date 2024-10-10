@@ -1,18 +1,17 @@
-
 export interface ProjectType {
-  id: number
-  name: string
-  subtitle: string
-  description: string
-  keywords: string[]
-  status: string
-  github: string
-  demo: string
-  image: string
+  id: number;
+  name: string;
+  subtitle: string;
+  description: string;
+  keywords: string[];
+  status: string;
+  github: string;
+  demo: string;
+  image: string;
 }
 
 export interface ProjectsType {
-  projects: ProjectType[]
+  projects: ProjectType[];
 }
 
 // export interface Image {
