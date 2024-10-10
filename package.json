@@ -29,6 +29,6 @@
     "vite": "^5.4.1"
   },
   "ts-standard": {
-    "project": "./tsconfig.app.json"
+    "project": "./tsconfig.json"
   }
 }
