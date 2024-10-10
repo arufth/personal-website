@@ -1,6 +1,6 @@
 // TODO: create sectios for each 'section' lol
 
-import { Divider, Header } from '../components'
+import { Divider, Header, SocialMedia } from '../components'
 import { Link } from 'react-router-dom'
 
 import './About.css'
@@ -16,38 +16,7 @@ export const About: React.FC = () => {
         />
 
         <section className='mainText-about'>
-          <div className='social-medias'>
-            <p>
-              These are my 'social media':
-            </p>
-            <div className='social-media-links'>
-              <a
-                rel='noreferrer'
-                target='_blank'
-                href={SOCIAL_MEDIA.INSTAGRAM}
-              >Instagram
-              </a>
-              <a
-                rel='noreferrer'
-                target='_blank'
-                href={SOCIAL_MEDIA.X}
-              >X (Twitter)
-              </a>
-              <a
-                rel='noreferrer'
-                target='_blank'
-                href={SOCIAL_MEDIA.GITHUB}
-              >GitHub
-              </a>
-              <a
-                rel='noreferrer'
-                target='_blank'
-                href={SOCIAL_MEDIA.LEETCODE}
-              >LeetCode
-              </a>
-            </div>
-          </div>
-
+          <SocialMedia />
           <Divider />
 
           <p>
