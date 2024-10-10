@@ -36,7 +36,7 @@ export const About: React.FC = () => {
               <a
                 rel='noreferrer'
                 target='_blank'
-                href={SOCIAL_MEDIA.X}
+                href={SOCIAL_MEDIA.GITHUB}
               >GitHub
               </a>
               <a
