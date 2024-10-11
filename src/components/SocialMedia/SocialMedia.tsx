@@ -9,7 +9,7 @@ export const SocialMedia: React.FC = () => {
       <p>These are my 'social media':</p>
       <div className="social-media-links">
         {Object.keys(SOCIAL_MEDIA).map((media) => (
-          <SocialMediaLink media={media} />
+          <SocialMediaLink key={media} media={media} />
         ))}
       </div>
     </div>

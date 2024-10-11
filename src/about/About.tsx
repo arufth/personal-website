@@ -43,13 +43,20 @@ export const About: React.FC = () => {
           </p>
           <section className="languages">
             {Object.values(CURRENT_LANGS).map(
-              (lang) => lang != "Rust" && <p className={lang}>{lang}</p>,
+              (lang) =>
+                lang != "Rust" && (
+                  <p key={lang} className={lang}>
+                    {lang}
+                  </p>
+                ),
             )}
           </section>
           <p>Also, I'd like to learn:</p>
           <section className="languages">
             {Object.values(FUTURE_LANGS).map((lang) => (
-              <p className={lang}>{lang}</p>
+              <p key={lang} className={lang}>
+                {lang}
+              </p>
             ))}
           </section>
           <Divider />
