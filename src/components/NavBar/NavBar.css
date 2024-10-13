@@ -33,10 +33,18 @@ header {
         font-weight: bold;
       }
 
+      .hidden {
+        opacity: 0;
+      }
+
       .active {
-        text-decoration: underline var(--orange0);
-        text-decoration-thickness: 5px;
+        color: var(--orange0);
         font-weight: bold;
+        font-size: 1.1rem;
+
+        .hidden {
+          opacity: 1;
+        }
       }
     }
   }

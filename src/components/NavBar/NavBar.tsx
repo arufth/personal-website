@@ -13,7 +13,9 @@ export const NavBar: React.FC = () => {
                 to={"/".concat(tab.toLowerCase())}
                 className={({ isActive }) => (isActive ? "active" : "")}
               >
+                <span className="hidden">[</span>
                 {tab}
+                <span className="hidden">]</span>
               </NavLink>
             </li>
           ))}
