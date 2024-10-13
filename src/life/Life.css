@@ -1,12 +1,4 @@
 .main-life {
-  padding: 2rem 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 100%;
-  max-width: 600px;
-  margin: 0 2rem;
-
   .photos {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -24,16 +16,16 @@
       img {
         width: 100%;
         height: auto;
+        border-radius: 5px;
       }
 
       small {
         color: var(--bg1);
-        font-size: .7rem;
+        font-size: 0.7rem;
         background: var(--fg0);
-        padding: .2rem .5rem;
-        border-radius: .2rem;
+        padding: 0.2rem 0.5rem;
+        border-radius: 0.2rem;
       }
     }
   }
-
 }

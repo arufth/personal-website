@@ -4,3 +4,4 @@ export * from "./CrabGift/CrabGift";
 export * from "./Header/Header";
 export * from "./SocialMedia/SocialMedia";
 export * from "./SocialMediaLink/SocialMediaLink";
+export * from "./Page/Page";

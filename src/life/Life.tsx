@@ -1,12 +1,11 @@
-// TODO: Optimaze photos
-import { Header } from "../components";
+import { Header, Page } from "../components";
 
 import "./Life.css";
 import photos from "./Life.json";
 
 export const Life: React.FC = () => {
   return (
-    <>
+    <Page>
       <main className="main-life">
         <Header
           title="POV: you're Aru"
@@ -22,6 +21,6 @@ export const Life: React.FC = () => {
           ))}
         </ul>
       </main>
-    </>
+    </Page>
   );
 };

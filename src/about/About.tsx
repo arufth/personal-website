@@ -1,6 +1,6 @@
 // TODO: create sectios for each 'section' lol
 
-import { Divider, Header, SocialMedia } from "../components";
+import { Divider, Header, Page, SocialMedia } from "../components";
 import { Link } from "react-router-dom";
 
 import "./About.css";
@@ -13,7 +13,7 @@ import {
 
 export const About: React.FC = () => {
   return (
-    <>
+    <Page>
       <main className="main-about">
         <Header
           title="But, Who Am I?"
@@ -116,6 +116,6 @@ export const About: React.FC = () => {
           </div>
         </section>
       </main>
-    </>
+    </Page>
   );
 };

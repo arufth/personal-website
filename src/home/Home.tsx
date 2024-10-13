@@ -1,11 +1,11 @@
 import { EMAIL, SOCIAL_MEDIA } from "../../constants";
-import { Divider, Header } from "../components";
+import { Divider, Header, Page } from "../components";
 
 import "./Home.css";
 
 export const Home: React.FC = () => {
   return (
-    <>
+    <Page>
       <main className="main-home">
         <Header
           title="Welcome to my website, I'm Aru!"
@@ -44,6 +44,6 @@ export const Home: React.FC = () => {
 
         <Divider />
       </main>
-    </>
+    </Page>
   );
 };
