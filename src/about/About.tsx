@@ -111,7 +111,7 @@ export const About: React.FC = () => {
             photos I've taken so far.
           </p>
           <div className="gardering">
-            <img src="/radish.webp" alt="A photo of radishes" />
+            <img src="/8.webp" alt="A photo of radishes" />
             <small>This is the first one I took c:</small>
           </div>
         </section>

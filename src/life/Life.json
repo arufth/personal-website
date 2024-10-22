@@ -2,92 +2,71 @@
   {
     "id": 1,
     "title": "I'll never use a normal keyboard again",
-    "path": "/9.webp",
+    "path": "/1.webp",
     "category": ["life", "tech"],
     "date": "2024-07-25"
   },
   {
     "id": 2,
     "title": "My (second) home",
-    "path": "/11.webp",
+    "path": "/2.webp",
     "category": ["life", "nature"],
     "date": "2024-08-11"
   },
   {
     "id": 3,
-    "title": "The best game ever",
-    "path": "/6.webp",
+    "title": "The best TV show ever",
+    "path": "/3.webp",
     "category": ["life", "tech", "games"],
     "date": "2024-06-22"
   },
   {
     "id": 4,
+    "title": "A tiny pet",
+    "path": "/4.webp",
+    "category": ["life", "nature"],
+    "date": "2024-08-11"
+  },
+  {
+    "id": 5,
+    "title": "The best game ever",
+    "path": "/5.webp",
+    "category": ["life", "tech", "games"],
+    "date": "2024-06-22"
+  },
+  {
+    "id": 6,
     "title": "Life would be awful without carrots",
-    "path": "/14.webp",
+    "path": "/6.webp",
     "category": ["life", "gardening"],
     "date": "2024-08-16"
   },
   {
-    "id": 5,
+    "id": 7,
     "title": "Ngl, I love VIM (motions)",
-    "path": "/2.webp",
+    "path": "/7.webp",
     "category": ["life", "tech", "study"],
     "date": "2024-06-13"
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "My first day in my garden",
-    "path": "/3.webp",
+    "path": "/8.webp",
     "category": ["life", "gardening"],
     "date": "2024-06-13"
   },
   {
-    "id": 7,
-    "title": "I'm dummy, btw",
-    "path": "/14.webp",
-    "category": ["life", "tech", "study"],
-    "date": "2024-06-14"
-  },
-  {
-    "id": 8,
+    "id": 9,
     "title": "It broke down again",
-    "path": "/8.webp",
+    "path": "/9.webp",
     "category": ["life", "tech"],
     "date": "2024-07-21"
   },
   {
-    "id": 9,
-    "title": "",
-    "path": "/5.webp",
-    "category": ["life", "gardening"],
-    "date": "2024-06-15"
-  },
-  {
     "id": 10,
-    "title": "",
-    "path": "/7.webp",
-    "category": ["life", "gardening"],
-    "date": "2024-06-29"
-  },
-  {
-    "id": 11,
-    "title": "",
+    "title": "Another day in the garden",
     "path": "/10.webp",
     "category": ["life", "gardening"],
-    "date": "2024-07-26"
-  },
-  {
-    "id": 12,
-    "title": "",
-    "path": "/13.webp",
-    "category": ["life", "gardening"],
-    "date": "2024-08-16"
-  },
-  {
-    "id": 13,
-    "title": "",
-    "path": "/15.webp",
-    "category": ["life", "gardening"],
-    "date": "2024-08-16"
+    "date": "2024-06-15"
   }
 ]
