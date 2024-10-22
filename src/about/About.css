@@ -76,6 +76,10 @@
     .Zig {
       color: var(--yellow0);
     }
+
+    .OCaml {
+      color: var(--orange);
+    }
   }
 
   .logical-problems {

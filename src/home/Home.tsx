@@ -29,9 +29,6 @@ export const Home: React.FC = () => {
             <a href={SOCIAL_MEDIA.GITHUB} rel="noreferrer" target="_blank">
               GitHub
             </a>
-            <a href="#" rel="noreferrer" target="_blank">
-              CV
-            </a>
             <a href={SOCIAL_MEDIA.LINKEDIN} rel="noreferrer" target="_blank">
               Linkedin
             </a>
