@@ -11,7 +11,7 @@ export const TABS = Object.values(SECTIONS);
 export const SOCIAL_MEDIA = {
   GITHUB: "https://github.com/arufth",
   X: "https://x.com/arufth",
-  INSTAGRAM: "https://instagram.com/arufth",
+  BLUESKY: "https://bsky.app/profile/arufth.bsky.social",
   LEETCODE: "https://leetcode.com/u/arufth/",
   LINKEDIN: "https://www.linkedin.com/in/arufth/",
 };
@@ -30,6 +30,7 @@ export const FUTURE_LANGS = {
   C: "C",
   ZIG: "Zig",
   GO: "Go",
+  OCAML: "OCaml",
 };
 
 export const EMAIL = "arufthh@gmail.com";
