@@ -18,14 +18,14 @@
     "title": "The best TV show ever",
     "path": "/3.webp",
     "category": ["life", "tech", "games"],
-    "date": "2024-06-22"
+    "date": "2024-09-13"
   },
   {
     "id": 4,
     "title": "A tiny pet",
     "path": "/4.webp",
     "category": ["life", "nature"],
-    "date": "2024-08-11"
+    "date": "2024-09-27"
   },
   {
     "id": 5,
@@ -67,6 +67,6 @@
     "title": "Another day in the garden",
     "path": "/10.webp",
     "category": ["life", "gardening"],
-    "date": "2024-06-15"
+    "date": "2024-07-26"
   }
 ]
