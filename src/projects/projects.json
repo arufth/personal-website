@@ -29,7 +29,7 @@
       "description": "A web application that allows users to manage their tasks. It lets users filter tasks by status and importance, in addition to the usual CRUD operations. With color coding, users can easily identify the status of each task.",
       "keywords": ["typescript", "react"],
       "status": "active",
-      "github": "https://github.com/arufth/task_manager",
+      "github": "https://github.com/arufth/task-manager",
       "demo": "https://minimalist-task-manager.netlify.app/",
       "image": "/task-manager.webp"
     },
